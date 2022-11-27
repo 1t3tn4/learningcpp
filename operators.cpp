@@ -10,7 +10,7 @@ int main() {
 	cout << "Number1 + Number2: " << number1 + number2 << endl;
 	cout << "Number1 - Number2: " << number1 - number2 << endl;
 	cout << "Number1 * Number2: " << number1 * number2 << endl;
-	cout << "Number1 / Number2: " << number1 / number2 << endl;
+	cout << "Number1 / Number2: " << float(number1) / number2 << endl;
 
 	return 0;
 }
