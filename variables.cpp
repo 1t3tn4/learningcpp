@@ -15,4 +15,6 @@ int main() {
 	cout << "Variable c has the value of: " << c << endl;
 	cout << "Variable d has the value of: " << d << endl;
 	cout << "Variable e has the value of: " << e << endl;
+	
+	return 0;
 }
